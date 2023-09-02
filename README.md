@@ -1,2 +1,2 @@
 # blp-shared-task2
-First Bangla Language Processing Workshop @ EMNLP 2023: Bangla Sentiment Analysis
+The first Bangla Language Processing Workshop at EMNLP 2023 contains two shared tasks. This research focuses on the second shared task which emphasizes sentiment analysis of Bangla text.
